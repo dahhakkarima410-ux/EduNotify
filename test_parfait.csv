@@ -1,0 +1,8 @@
+Nom;Prenom;Classe;Date;Heure_Debut;Heure_Fin;Matiere;Motif;Justifie;Document_Justificatif;Email_Parent;Telephone
+"Khchichine";"Hamza";"CS1";"01/03/2026";"08:00";"10:00";"LINUX";"Maladie";"0";"";"hamzakhchichine@gmail.com";"0771493177"
+"Khchichine";"Hamza";"CS1";"03/03/2026";"14:00";"16:00";"WEB";"Retard transport";"0";"";"hamzakhchichine@gmail.com";"0771493177"
+"Khchichine";"Hamza";"CS1";"05/03/2026";"10:00";"12:00";"NETWORK";"Oubli affaires";"0";"";"hamzakhchichine@gmail.com";"0771493177"
+""Khchichine";"Hamza";"CS1";"10/03/2026";"08:00";"10:00";"English";"Absence injustifiée";"0";"";"hamzakhchichine@gmail.com";"0771493177"
+"Bernard";"Sophie";"2AP1";"02/03/2026";"09:00";"11:00";"Anglais";"Rendez-vous médical";"1";"certif.pdf";"parent.sophie@email.com";"0622334455"
+"Dubois";"Thomas";"2AP2";"04/03/2026";"08:00";"12:00";"Français";"Panne de réveil";"0";"";"parent.dubois@email.com";"0633445566"
+"Dubois";"Thomas";"2AP2";"06/03/2026";"14:00";"16:00";"Chimie";"Maladie";"0";"";"parent.dubois@email.com";"0633445566"

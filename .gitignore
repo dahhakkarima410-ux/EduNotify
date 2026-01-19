@@ -1,0 +1,5 @@
+/vendor/
+/uploads/
+/config/notification_config.php
+/config/database.php
+.env

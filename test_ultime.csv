@@ -1,0 +1,11 @@
+﻿Nom;Prenom;Classe;Date;Heure_Debut;Heure_Fin;Matiere;Motif;Justifie;Document_Justificatif;Email_Parent;Telephone
+"Alami";"Samir";"2AP1";"10/03/2025";"08:00";"10:00";"Mathématiques";"Rendez-vous médical";"1";"certificat_medical.pdf";"[email protected]";"0611223344"
+"Bernard";"Sophie";"2AP1";"2025-03-10";"14:00";"16:00";"Physique";"Maladie";"Oui";"";"[email protected]";"0622334455"
+"Dubois";"Thomas";"2AP2";"11-03-2025";"10:00";"12:00";"Informatique";"Panne de réveil";"Non";"";"[email protected]";"0633445566"
+"El Fassi";"Karim";"2AP3";"12/03/2025";"";"";"";"Absence injustifiée";"0";"";"[email protected]";"0644556677"
+"Martin";"Julie";"2AP1";"13/03/2025";"08:00";"12:00";"Français";"Compétition sportive";"Yes";"convocation_sport.jpg";"[email protected]";"0655667788"
+"L'oiseau";"Cécile";"2AP2";"14/03/2025";"09:00";"11:00";"Anglais";"Problème familial";"Vrai";"mot_parents.pdf";"[email protected]";"0666778899"
+"Tazi";"Youssef";"2AP2";"15/03/2025";"15:00";"17:00";"Arabe";"Retard de bus (Transport)";"Ok";"";"[email protected]";"0677889900"
+"Benali";"Amine";"2AP3";"16/03/2025";"08:30";"10:30";"SVT";"Consultation ophtalmo";"True";"ordonnance.png";"[email protected]";"0688990011"
+"Richard";"Manon";"2AP1";"17/03/2025";"10:00";"12:00";"Histoire-Géo";"Voyage scolaire";"1";"autorisation.pdf";"[email protected]";"0699001122"
+"Zidane";"Enzo";"2AP3";"18/03/2025";"";"";"EPS";"Urgences";"Oui";"hospitalisation.pdf";"[email protected]";"0600112233"
